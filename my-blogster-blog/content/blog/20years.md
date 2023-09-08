@@ -2,7 +2,7 @@
 external: false
 title: "20 Years"
 description: "20 Years review"
-date: 2022-01-03
+date: 2020-01-03
 ---
 
 สรุปรายปีก็ทำอยู่แล้ว ลองสรุป 20 ปี ดูบ้าง
