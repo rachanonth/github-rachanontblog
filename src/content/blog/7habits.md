@@ -2,7 +2,7 @@
 title: '7 habits of super organised people'
 description: '7-habits-of-super-organised-people'
 pubDate: 'Jul 08 2023'
-heroImage: '/blog-placeholder-4.jpg'
+heroImage: '/img/pexels-photo-4240497.jpeg'
 ---
 - Protect Your Time Fiercely 
 : ปกป้องเวลาของตัวเองอย่างเข้มงวดที่สุด
