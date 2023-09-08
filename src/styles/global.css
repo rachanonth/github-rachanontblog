@@ -17,14 +17,14 @@
 }
 @font-face {
 	font-family: 'Mamu';
-	src: url('/fonts/mamu.ttf') format('truetype');
+	src: url('/fonts/Mamu.ttf') format('truetype');
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap;
 }
 @font-face {
 	font-family: 'Mamu';
-	src: url('/fonts/mamuBold.ttf') format('truetype');
+	src: url('/fonts/MamuBold.ttf') format('truetype');
 	font-weight: 700;
 	font-style: normal;
 	font-display: swap;
