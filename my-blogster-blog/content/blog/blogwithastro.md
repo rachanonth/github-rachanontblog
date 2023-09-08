@@ -3,7 +3,7 @@ external: false
 draft: true
 title: Getting Started with Astro
 description: how to set up my blog using Astro
-date: 2023-9-8
+date: 2023-09-08
 ---
 
 หลังจากลองเขียน blog ที่ medium มาเกือบ 1 ปี ปรากฎว่าแทบไม่ค่อยได้เขียนอะไรเลย แต่ที่เลือกใช้เพราะดีตรงที่เราไม่ต้องบริหารจัดการอะไรต่างกับใช้ wordpress บน server ของตัวเอง ซึ่งก่อนหน้านี้ก็ได้ไปลองใช้ Static Site Generators อย่าง Gatsby กับ Jekyll มาบ้างแต่ก็ยังไม่ถูกใจเหมือนกัน
