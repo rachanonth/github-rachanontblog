@@ -2,7 +2,7 @@
 title: '20 Years'
 description: '20 Years review'
 pubDate: 'Jan 3 2020'
-heroImage: '/blog-placeholder-4.jpg'
+heroImage: '/img/pexels-mathias-reding-5331914.jpg'
 ---
 
 สรุปรายปีก็ทำอยู่แล้ว ลองสรุป 20 ปี ดูบ้าง
