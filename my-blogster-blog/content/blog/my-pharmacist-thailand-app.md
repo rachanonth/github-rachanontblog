@@ -1,5 +1,5 @@
 ---
-external: true
+external: false
 url: https://medium.com/@rachanont/my-pharmacist-thailand-app-75d0be192a6b
 title: My pharmacist thailand app tutorial
 description: ขั้นตอนการลงทะเบียนใช้งานระบบเช็คอิน My Pharmacist
