@@ -25,4 +25,4 @@ date: 2023-09-11
 
 **Reference** 
 
-1. Slow Progression & Reduce Complications - NIDDK [Internet]. National Institute of Diabetes and Digestive and Kidney Diseases. [cited 2023 Sep 11]. Available from: https://www.niddk.nih.gov/health-information/professionals/clinical-tools-patient-management/kidney-disease/identify-manage-patients/manage-ckd/slow-progression-reduce-complications
+1. Slow Progression & Reduce Complications - NIDDK [Internet]. National Institute of Diabetes and Digestive and Kidney Diseases. [cited 2023 Sep 11]. Available from: [https://www.niddk.nih.gov/health-information/professionals/clinical-tools-patient-management/kidney-disease/identify-manage-patients/manage-ckd/slow-progression-reduce-complications](https://www.niddk.nih.gov/health-information/professionals/clinical-tools-patient-management/kidney-disease/identify-manage-patients/manage-ckd/slow-progression-reduce-complications)
