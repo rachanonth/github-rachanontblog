@@ -18,7 +18,7 @@ date: 2023-09-23
 6. **รีสตาร์ท Kindle Paperwhite** โดยกดปุ่ม power ค้างประมาณ 40 วินาที
 
 พอรีสตาร์ทเสร็จ เราก็จะมีฟอนท์ให้เลือกเพิ่มแล้ว
-![KindleFontMenu](/images/kindlefontmenu.png)
+![KindleFontMenu](/images/kindlefontmenu.jpg)
 
 **ข้อแนะนำเพิ่มเติม**
 
