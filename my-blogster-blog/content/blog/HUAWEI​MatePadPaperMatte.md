@@ -7,7 +7,7 @@ date: 2024-04-15
 ---
 
 
-{% youtube url="https://www.youtube.com/watch?v=9p2aGXxWxqI" label="รีวิว HUAWEI MatePad 11.5 PaperMatte" /%}
+{% youtube url="https://www.youtube-nocookie.com/embed/9p2aGXxWxqI" label="รีวิว HUAWEI MatePad 11.5 PaperMatte" /%}
 
 รุ่นที่ซื้อมาใช้เป็นรุ่นก่อนหน้านี้ ซึ่งความต่างคือ ROM 128 ส่วนตัวใหม่เพิ่มเป็น 256 แล้ว
 
