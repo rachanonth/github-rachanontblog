@@ -1,9 +1,8 @@
 ---
+external: false
 title: 'Smooth Code, Failed Deploy: My Astro Update Story with Cursor AI
 description: 'My Astro update with Cursor AI was a breeze... until the Vercel deploy failed. Discover the one simple setting I missed and how an AI pair-programmer saved the day.'
 pubDate: '2025-06-24' # Use YYYY-MM-DD format
-updatedDate: '' # Optional: for post updates
-tags: ['astro', 'blogging', 'easy']
 draft: false # Set to false when you are ready to publish
 ---
 
