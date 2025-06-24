@@ -1,6 +1,7 @@
 ---
-title: Peddose App
-description: Pedriatic drug dosing calculator.
-date: 2023-08-14
-url: https://peddose.com/
+draft: false
+title: Warfcal
+description: Professional medical dosing tool.
+date: 2025-06-23
+url: https://warfcal.peddose.com/
 ---
