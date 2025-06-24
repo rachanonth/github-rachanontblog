@@ -1,4 +1,5 @@
 ---
+external: false 
 title: 'Your Awesome Blog Post Title'
 description: 'A brief, catchy description of your post for SEO and previews.'
 pubDate: '2025-06-24' # Use YYYY-MM-DD format
