@@ -38,3 +38,10 @@ date: 2021-05-15
 11. ให้รอประมาณ 1–2 วัน จึงไปเช็คที่[ระบบติดตามสำนวนคดี](https://cios.coj.go.th/tracking/index.html?page=form) เพื่อเอาเลขคดีแดงมาใส่ในใบเก็บคดีก็จะเป็นอันเสร็จสิ้นจริงๆ
 
 ขอบคุณข้อมูลจาก[ติวเตอร์บอส](https://www.facebook.com/peerapat.chuenwajeetham/posts/pfbid026SyxGDVY51Q7czYHAFHLSNRdYVbUEmfc7g5gae7P5rkVSjp4WwLLVo2rkmicAdFwl) [(Peerapat Chuenwajeetham)](https://www.facebook.com/peerapat.chuenwajeetham?__cft__%5B0%5D=AZX97GS28PweZLF7Ugk66ytU953OZIvA2hqYHyp7Z4GxbWCZhnRXLj6uwp-ecxHoaIzFss8CiqfFLflxmXAjHpr35HsIjhVhhE-DbjVftBkB1LH4BseZG-S69YLKSckTons&__tn__=-UC%2CP-R)
+
+#หนังสือออกใหม่
+- [รวมคำพิพากษาฎีกา เนติ 2568](https://s.shopee.co.th/7KpQJDtLnR)
+- [สารบาญคำพิพากษาฎีกา เนติ 2567](https://s.shopee.co.th/6Kwt7XSAaV)
+- [หลักและคำพิพากษา กฎหมายลักษณะพยานหลักฐาน คดีแพ่ง/คดีอาญา สหรัฐ กิติ ศุภการ](https://s.shopee.co.th/gIWNAmOQK)
+- [แม่นหลัก พระธรรมนูญ วิ.แขวง วิ.เด็ก 2568](https://s.shopee.co.th/6VGJJybz6E)
+- [คำศัพท์ภาษาอังกฤษสำหรับนักกฎหมาย (รศ.ดร.ดวงเด่น นาคสีหราช,ผศ.พงศ์กานต์ คงศรี) ปีที่พิมพ์ พ.ย.2567 (ครั้งที่ 10)](https://s.shopee.co.th/1BEmyFcX11)
