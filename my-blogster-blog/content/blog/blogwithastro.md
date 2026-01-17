@@ -13,10 +13,12 @@ date: 2023-09-10
 1. fork [example blog](https://github.com/withastro/astro/tree/latest/examples/blog?on=github) บน github
 2. สร้าง workspace ใหม่บน [gitpod](https://gitpod.io/new) แล้วก็เลือก repo ที่ fork มา
 3. ลอง run ดูว่าหน้าบล็อกขึ้นมาเรียบร้อย ได้ลองตั้งค่า ได้เขียนบล็อกหน่อยนึง ปรากฎว่าหน้าตาไม่ถูกใจ เลยต้องหา theme ใหม่
-4. ผมเลือก theme [Bubblegum](https://github.com/flexdinesh/blogster/tree/main/templates/bubblegum) ซึ่งติดตั้งโดยรันคำสั่ง 
+4. ผมเลือก theme [Bubblegum](https://github.com/flexdinesh/blogster/tree/main/templates/bubblegum) ซึ่งติดตั้งโดยรันคำสั่ง
+
 ```
 npx create-blogster@latest --theme bubblegum
 ```
+
 5. จากนั้นก็แก้ไฟล์หน้าแรกที่ src>components>Intro.astro
 6. เริ่มบล็อกโดยวางไฟล์บล็อกที่เขียนเป็นไฟล์ markdown (.md) ที่ folder content/blog กับลิ้งค์ project ที่ content/project
 7. พอรันดูว่าบล็อกขึ้นได้ถูกต้องก็ commit project ไปที่ GitHub

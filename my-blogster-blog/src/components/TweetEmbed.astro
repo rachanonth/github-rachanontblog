@@ -14,12 +14,14 @@ const { url } = Astro.props;
     data-lang="en"
     data-dnt="true"
   >
-    <a class="unset absolute left-0 top-0" href={url}>Loading embedded tweet...</a>
+    <a class="unset absolute left-0 top-0" href={url}
+      >Loading embedded tweet...</a
+    >
   </blockquote>
 </div>
 <script
+  is:inline
   async
   defer
   src="https://platform.twitter.com/widgets.js"
-  charset="utf-8"
-></script>
+  charset="utf-8"></script>
