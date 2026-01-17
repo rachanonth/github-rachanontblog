@@ -1,11 +1,10 @@
 ---
 external: false
-url: 
+url:
 title: HUAWEI MatePad 11.5 PaperMatte
 description: HUAWEI MatePad 11.5 PaperMatte
 date: 2024-04-15
 ---
-
 
 {% youtube url="https://www.youtube-nocookie.com/embed/9p2aGXxWxqI" label="รีวิว HUAWEI MatePad 11.5 PaperMatte" /%}
 
@@ -13,7 +12,7 @@ date: 2024-04-15
 
 สิ่งที่ชอบคือ
 
-- จอสะท้อนแสงน้อยกว่าจอปกติ ใช้อ่านได้สบายตากว่า ipad 
+- จอสะท้อนแสงน้อยกว่าจอปกติ ใช้อ่านได้สบายตากว่า ipad
 - ลง app ที่ต้องใช้ได้หมด การที่ไม่มี GMS ไม่มีผลเท่าไหร่
 - เร็วกว่า e-ink reader ซึ่งแน่นอน แต่ก็แลกกับความสบายตาในการอ่านซึ่งสู้ไม่ได้
 

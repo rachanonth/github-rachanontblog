@@ -13,7 +13,9 @@
   font-style: normal;
   font-weight: 400;
   font-display: block;
-  src: url("../webfonts/fa-brands-400.woff2") format("woff2"), url("../webfonts/fa-brands-400.ttf") format("truetype");
+  src:
+    url('../webfonts/fa-brands-400.woff2') format('woff2'),
+    url('../webfonts/fa-brands-400.ttf') format('truetype');
 }
 
 .fab,
@@ -21,32 +23,30 @@
   font-weight: 400;
 }
 
-
 .fa-github:before {
-  content: "\f09b";
+  content: '\f09b';
 }
 
-
 .fa-github-alt:before {
-  content: "\f113";
+  content: '\f113';
 }
 
 .fa-square-github:before {
-  content: "\f092";
+  content: '\f092';
 }
 
 .fa-github-square:before {
-  content: "\f092";
+  content: '\f092';
 }
 
 .fa-twitter:before {
-  content: "\f099";
+  content: '\f099';
 }
 
 .fa-square-twitter:before {
-  content: "\f081";
+  content: '\f081';
 }
 
 .fa-twitter-square:before {
-  content: "\f081";
+  content: '\f081';
 }

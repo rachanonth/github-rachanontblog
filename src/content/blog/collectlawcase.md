@@ -8,11 +8,12 @@ heroImage: '/img/pexels-anete-lusina-4792285.jpg'
 สำหรับผู้ที่ไม่ได้ทำงานประจำเป็นทนายความ จำเป็นต้องไปรบกวนพี่ๆ น้องๆทนายความขอเก็บคดี การเตรียมตัวให้ดีก่อนไปจึงเป็นสิ่งที่ต้องทำ
 
 1. เตรียมเอกสารต่อไปนี้
+
 - [ใบแต่งทนายความ](https://www.google.com/search?q=%E0%B9%83%E0%B8%9A%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%99%E0%B8%B2%E0%B8%A2+doc&sxsrf=ALiCzsYTdPjrD6e0SjqSRHjdU_LUVhftqA%3A1666845120887&ei=wAlaY-XkNbTKpgeK0am4Bg&oq=%E0%B9%83%E0%B8%9A%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1+word&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgDMgoIABBHENYEELADMgoIABBHENYEELADMgoIABBHENYEELADMgoIABBHENYEELADMgoIABBHENYEELADMgoIABBHENYEELADMgoIABBHENYEELADMgoIABBHENYEELADSgQIQRgASgQIRhgAUABYAGD5DWgBcAF4AIABAIgBAJIBAJgBAMgBCMABAQ&sclient=gws-wiz-serp)
 - สำเนาใบอนุญาตให้เป็นทนายความ พร้อมเซ็นรับรองสำเนาถูกต้อง
 - [ใบเก็บคดี สำหรับการสอบผู้ช่วยผู้พิพากษา](https://www.google.com/search?q=%E0%B9%83%E0%B8%9A%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%9A%E0%B8%84%E0%B8%94%E0%B8%B5+%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A9%E0%B8%B2&oq=%E0%B9%83%E0%B8%9A%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%9A%E0%B8%84%E0%B8%94%E0%B8%B5+%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A9%E0%B8%B2&aqs=chrome..69i57.186j0j1&sourceid=chrome&ie=UTF-8)
 - [ใบเก็บคดี สำหรับการสอบอัยการผู้ช่วย](https://www.google.com/search?q=%E0%B9%83%E0%B8%9A%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%9A%E0%B8%84%E0%B8%94%E0%B8%B5+%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%AD%E0%B8%B1%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2&sxsrf=ALiCzsZPIojrebReAHAnboOzhQhT8hy4Dw%3A1666845165977&ei=7QlaY_OaO7KGjuMPsd-F8Aw&ved=0ahUKEwizxY2Qyv_6AhUyg2MGHbFvAc4Q4dUDCA8&uact=5&oq=%E0%B9%83%E0%B8%9A%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%9A%E0%B8%84%E0%B8%94%E0%B8%B5+%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%AD%E0%B8%B1%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCCEQoAFKBAhBGABKBAhGGABQAFgAYMEBaABwAXgAgAGmAYgBpgGSAQMwLjGYAQCgAQKgAQHAAQE&sclient=gws-wiz-serp)
-โดยเอกสารทุกอย่างพยายามกรอกข้อมูลล่วงหน้าเท่าที่กรอกได้ และเซ็นชื่อให้เรียบร้อย
+  โดยเอกสารทุกอย่างพยายามกรอกข้อมูลล่วงหน้าเท่าที่กรอกได้ และเซ็นชื่อให้เรียบร้อย
 
 2. ไปยังศาลที่เราสะดวกเดินทางและควรเป็นศาลแขวงหรือศาลจังหวัด เพราะคดีที่เราจะเก็บคดีได้จะเป็นคดีที่ไม่ยุ่งยากอย่างคดีตั้งผู้จัดการมรดก หรือคดีผู้บริโภคซึ่งจะอยู่ในสองศาลนี้ โดยพยายามไปให้ถึงศาลก่อน 8.00 น.
 
@@ -23,6 +24,7 @@ heroImage: '/img/pexels-anete-lusina-4792285.jpg'
 5. จากนั้นให้กลับมาหาพี่ทนายขอใบเบิกความเพื่อนำข้อมูลมากรอกลงในใบแต่งทนายและใบเก็บคดี และขอให้ตัวความลงลายมื่อชื่อแต่งเราเป็นทนายด้วย
 
 6. นำเอกสารทั้งหมดรวบรวมยื่นให้กับเจ้าหน้าที่หน้าบังลังก์
+
 - ใบแต่งทนายความที่ตัวความลงลายมื่อชื่อแล้วเย็บติดกับสำเนาใบอนุญาตให้เป็นทนายความ
 - ใบเก็บคดี สำหรับการสอบผู้ช่วยผู้พิพากษา
 - ใบเก็บคดี สำหรับการสอบอัยการผู้ช่วย

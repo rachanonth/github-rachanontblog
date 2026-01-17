@@ -1,14 +1,15 @@
 {
   "name": "@example/blog",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "format": "prettier --write ."
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
@@ -20,5 +21,9 @@
   },
   "engines": {
     "node": "20.x"
+  },
+  "devDependencies": {
+    "prettier": "^3.8.0",
+    "prettier-plugin-astro": "^0.14.1"
   }
 }

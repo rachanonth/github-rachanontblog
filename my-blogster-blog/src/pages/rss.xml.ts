@@ -1,11 +1,11 @@
-import rss from "@astrojs/rss";
-import { blog } from "../lib/markdoc/frontmatter.schema";
-import { readAll } from "../lib/markdoc/read";
-import { SITE_TITLE, SITE_DESCRIPTION, SITE_URL } from "../config";
+import rss from '@astrojs/rss';
+import { blog } from '../lib/markdoc/frontmatter.schema';
+import { readAll } from '../lib/markdoc/read';
+import { SITE_TITLE, SITE_DESCRIPTION, SITE_URL } from '../config';
 
 export const get = async () => {
   const posts = await readAll({
-    directory: "blog",
+    directory: 'blog',
     frontmatterSchema: blog,
   });
 
@@ -20,7 +20,7 @@ export const get = async () => {
   let baseUrl = SITE_URL;
   // removing trailing slash if found
   // https://example.com/ => https://example.com
-  baseUrl = baseUrl.replace(/\/+$/g, "");
+  baseUrl = baseUrl.replace(/\/+$/g, '');
 
   const rssItems = sortedPosts.map(({ frontmatter, slug }) => {
     if (frontmatter.external) {
