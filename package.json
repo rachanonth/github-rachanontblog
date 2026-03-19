@@ -16,6 +16,7 @@
     "@astrojs/mdx": "^1.0.2",
     "@astrojs/rss": "^3.0.0",
     "@astrojs/sitemap": "^3.0.0",
+    "@notionhq/client": "^5.13.0",
     "astro": "^3.0.10",
     "typescript": "^5.8.3"
   },
