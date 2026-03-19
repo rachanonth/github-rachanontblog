@@ -1,0 +1,27 @@
+---
+import ContentLayout from '../../layouts/ContentLayout.astro';
+import BlogPostMeta from '../../components/BlogPostMeta.astro';
+import { getNotionPosts, getNotionPageContent } from '../../lib/notion';
+
+export async function getStaticPaths() {
+  const posts = await getNotionPosts();
+  return posts.map((post) => ({
+    params: { slug: post.slug },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const content = await getNotionPageContent(post.id);
+---
+
+<ContentLayout title={post.title} date={post.pubDate || new Date()}>
+  <BlogPostMeta
+    title={post.title}
+    description={post.description}
+    publishDate={(post.pubDate || new Date()).toISOString()}
+    pagePath={`/notion/${post.slug}`}
+    slot="meta"
+  />
+  <Fragment set:html={content} slot="content" />
+</ContentLayout>
