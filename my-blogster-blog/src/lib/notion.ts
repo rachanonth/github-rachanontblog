@@ -1,6 +1,10 @@
-import { Client } from '@notionhq/client';
+import NotionPkg from '@notionhq/client';
 
-const notion = new Client({
+// Handle CJS/ESM interop — the package may expose Client as a named export
+// or nested under the default export depending on the bundler.
+const ClientCtor = (NotionPkg as any).Client || NotionPkg;
+ 
+const notion = new ClientCtor({
   auth: import.meta.env.NOTION_API_SECRET,
 });
 
