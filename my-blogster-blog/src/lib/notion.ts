@@ -1,10 +1,6 @@
-import NotionPkg from '@notionhq/client';
+import { Client } from '@notionhq/client';
 
-// Handle CJS/ESM interop — the package may expose Client as a named export
-// or nested under the default export depending on the bundler.
-const ClientCtor = (NotionPkg as any).Client || NotionPkg;
- 
-const notion = new ClientCtor({
+const notion = new Client({
   auth: import.meta.env.NOTION_API_SECRET,
 });
 
@@ -59,8 +55,8 @@ export async function getNotionPosts(): Promise<NotionPost[]> {
   }
 
   try {
-    const response = await notion.databases.query({
-      database_id: databaseId,
+    const response = await notion.dataSources.query({
+      data_source_id: databaseId,
       filter: {
         property: 'Status',
         select: { equals: 'Published' },
