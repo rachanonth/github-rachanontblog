@@ -36,4 +36,9 @@ export default defineConfig({
       config: { applyBaseStyles: false },
     }),
   ],
+  vite: {
+    ssr: {
+      noExternal: ['@notionhq/client'],
+    },
+  },
 });
