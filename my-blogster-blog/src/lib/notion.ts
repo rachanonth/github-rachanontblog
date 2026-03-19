@@ -55,8 +55,8 @@ export async function getNotionPosts(): Promise<NotionPost[]> {
   }
 
   try {
-    const response = await notion.dataSources.query({
-      data_source_id: databaseId,
+    const response = await notion.databases.query({
+      database_id: databaseId,
       filter: {
         property: 'Status',
         select: { equals: 'Published' },
